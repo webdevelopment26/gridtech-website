@@ -1,0 +1,13 @@
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+
+# Local tooling (not needed on Cloudflare)
+_patch_images.py
+_patch.ps1
+
+# Unrelated documents in this folder
+*.docx
